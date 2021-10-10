@@ -11,5 +11,6 @@ Fitur dalam website ini:
 Website ini memiliki 4 sisi user yaitu:
 - Konsumen yang membeli produk.
 - Admin yang mengelola kebutuhan konsumen (Transaksi atau chat konsumen).
-- Admin Gudang yang mengelola produk.
+- Admin gudang yang mengelola produk.
 - Manager yang dapat menakses data keuangan.
+Masing masing user hanya bisa mengakses web sesuai role nya.
